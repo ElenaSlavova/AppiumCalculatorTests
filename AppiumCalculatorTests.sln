@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppiumCalculatorTests", "AppiumCalculatorTests\AppiumCalculatorTests.csproj", "{1E58BA1D-D0C3-44F1-BACD-31335CB6A8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumCalculatorTestsPOM", "AppiumCalculatorTestsPOM\AppiumCalculatorTestsPOM.csproj", "{37DC34DB-36D3-4288-A5A6-98EA128B09EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E58BA1D-D0C3-44F1-BACD-31335CB6A8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E58BA1D-D0C3-44F1-BACD-31335CB6A8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E58BA1D-D0C3-44F1-BACD-31335CB6A8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E58BA1D-D0C3-44F1-BACD-31335CB6A8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DC34DB-36D3-4288-A5A6-98EA128B09EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DC34DB-36D3-4288-A5A6-98EA128B09EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DC34DB-36D3-4288-A5A6-98EA128B09EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DC34DB-36D3-4288-A5A6-98EA128B09EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0385CFE1-FBD3-495A-8D14-7949A6BAF1FB}
+	EndGlobalSection
+EndGlobal
